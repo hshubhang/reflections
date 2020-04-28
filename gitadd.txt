@@ -1,0 +1,5 @@
+What are the git status and git add commands?
+
+Git status shows the status of the current repository you are in. It shows if any files are untracked by git or not.
+
+Git add prepares the files you are about to commit to a repository by placing them in a staging area so that you don't have to commit every single untracked file at a time although it is possible to commit one file at a time. This staging area contains all the files that you are about to commit.

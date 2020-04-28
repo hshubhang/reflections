@@ -1,0 +1,4 @@
+Why is Git Checkout used?
+
+To revert temporarily to a previous commit for checking bugs
+
