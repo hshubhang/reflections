@@ -1,0 +1,3 @@
+Why is git log used?
+
+Git Log is used to see all the previous commits made to the repository
