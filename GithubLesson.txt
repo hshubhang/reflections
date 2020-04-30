@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 When would you want to use a remote repository rather than keeping all your work
 local?
 
@@ -27,3 +28,16 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+||||||| merged common ancestors
+=======
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    To share my work with fellow developers
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+   Gives more contorl over my remote repository
+
+>>>>>>> c08280c99526b4b57611c272650de82e5b7fa70e
