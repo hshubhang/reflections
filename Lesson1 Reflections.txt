@@ -4,3 +4,6 @@ It is a Git command.
 The + sign before a certain line of code indicates that the following line of code was added in the new file
 Similarly, the - minus before a certain line of code indicates that the following line was removed from the new version of the code file, which was present in the old code file.
 
+Why is Git Diff used?
+
+Git diff is used to compare to commits where the syntax it git diff oldcommitID newcommitID.

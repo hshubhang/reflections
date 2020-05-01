@@ -1,3 +1,0 @@
-Why is Git Diff used?
-
-Git diff is used to compare to commits where the syntax it git diff oldcommitID newcommitID.
