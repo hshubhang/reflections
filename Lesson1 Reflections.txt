@@ -7,3 +7,7 @@ Similarly, the - minus before a certain line of code indicates that the followin
 Why is Git Diff used?
 
 Git diff is used to compare to commits where the syntax it git diff oldcommitID newcommitID.
+
+Why is git log used?
+
+Git Log is used to see all the previous commits made to the repository
