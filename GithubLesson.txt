@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 When would you want to use a remote repository rather than keeping all your work
 local?
 
@@ -7,7 +7,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+   Manually pulling changes means that having more control over when to pull the changes from the remote, if 
+   Automatically pulled then the person loses the control over the repository.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
@@ -28,8 +29,7 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
-||||||| merged common ancestors
-=======
+
 When would you want to use a remote repository rather than keeping all your work
 local?
 
@@ -40,4 +40,4 @@ automatically stay up-to-date with your remote repository?
 
    Gives more contorl over my remote repository
 
->>>>>>> c08280c99526b4b57611c272650de82e5b7fa70e
+
